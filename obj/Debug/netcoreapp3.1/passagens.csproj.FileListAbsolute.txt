@@ -1,0 +1,13 @@
+C:\Users\samsung\Desktop\Senai\Backend\passagens\bin\Debug\netcoreapp3.1\passagens.exe
+C:\Users\samsung\Desktop\Senai\Backend\passagens\bin\Debug\netcoreapp3.1\passagens.deps.json
+C:\Users\samsung\Desktop\Senai\Backend\passagens\bin\Debug\netcoreapp3.1\passagens.runtimeconfig.json
+C:\Users\samsung\Desktop\Senai\Backend\passagens\bin\Debug\netcoreapp3.1\passagens.runtimeconfig.dev.json
+C:\Users\samsung\Desktop\Senai\Backend\passagens\bin\Debug\netcoreapp3.1\passagens.dll
+C:\Users\samsung\Desktop\Senai\Backend\passagens\bin\Debug\netcoreapp3.1\passagens.pdb
+C:\Users\samsung\Desktop\Senai\Backend\passagens\obj\Debug\netcoreapp3.1\passagens.csprojAssemblyReference.cache
+C:\Users\samsung\Desktop\Senai\Backend\passagens\obj\Debug\netcoreapp3.1\passagens.AssemblyInfoInputs.cache
+C:\Users\samsung\Desktop\Senai\Backend\passagens\obj\Debug\netcoreapp3.1\passagens.AssemblyInfo.cs
+C:\Users\samsung\Desktop\Senai\Backend\passagens\obj\Debug\netcoreapp3.1\passagens.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\Senai\Backend\passagens\obj\Debug\netcoreapp3.1\passagens.dll
+C:\Users\samsung\Desktop\Senai\Backend\passagens\obj\Debug\netcoreapp3.1\passagens.pdb
+C:\Users\samsung\Desktop\Senai\Backend\passagens\obj\Debug\netcoreapp3.1\passagens.genruntimeconfig.cache
